@@ -1,8 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## References
-Open (https://github.com/AlexStack/nextjs-materia-mui-typescript-hook-form-scaffold-boilerplate-starter)
-React Icon: (https://react-icons.github.io/react-icons/)
+- Open (https://github.com/AlexStack/nextjs-materia-mui-typescript-hook-form-scaffold-boilerplate-starter)
+-React Icon: (https://react-icons.github.io/react-icons/)
+-UI https://flowbite.com/docs/getting-started/next-js/ 
+- UI https://www.flowbite-react.com/docs/components/carousel
 
 ## Getting Started
 
